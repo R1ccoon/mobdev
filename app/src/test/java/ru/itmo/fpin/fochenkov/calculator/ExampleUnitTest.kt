@@ -1,4 +1,4 @@
-package io.github.mobdev
+package ru.itmo.fpin.fochenkov.calculator
 
 import org.junit.Test
 
