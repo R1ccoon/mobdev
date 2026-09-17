@@ -1,4 +1,4 @@
-package ru.itmo.fpin.fochenkov.calculator
+package com.example.calculator
 
 import org.junit.Test
 
