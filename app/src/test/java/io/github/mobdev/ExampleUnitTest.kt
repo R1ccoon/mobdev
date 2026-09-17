@@ -1,4 +1,4 @@
-package ru.itmo.fpin.fochenkov.contacts
+package io.github.mobdev
 
 import org.junit.Test
 

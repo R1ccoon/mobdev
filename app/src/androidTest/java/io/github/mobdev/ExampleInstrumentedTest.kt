@@ -1,4 +1,4 @@
-package ru.itmo.fpin.fochenkov.contacts
+package io.github.mobdev
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("ru.itmo.fpin.fochenkov.contacts", appContext.packageName)
+        assertEquals("io.github.mobdev", appContext.packageName)
     }
 }
